@@ -55,8 +55,6 @@ I started and finished this project in September 2024.
 
 [Back-end Repo](https://github.com/brightneon7631/odin-blog-api-backend)
 
-[Live Demo](https://bn7631-odin-travel-blog-api.pages.dev)
-
 ## Screenshots
 
 ### Desktop
